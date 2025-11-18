@@ -9,7 +9,7 @@
 TARGET_DIR="deploy"
 
 # GitHub Pages 仓库（请确保 SSH key 已配置）
-REPO_GIT="https://github.com/Shuxs23/THU-ACTS.github.io.git"
+REPO_GIT="https://github.com/Shuxs23/THU-ACTS.github.io_common.git"
 
 echo "🚀 开始 Hugo 部署流程..."
 
